@@ -1,0 +1,43 @@
+{
+  "name": "discord-js-v13-template",
+  "version": "2.0.0",
+  "description": "A Discord bot template using discord.js v13 and Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "@vitalets/google-translate-api": "^8.0.0",
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.2",
+    "metadata-parser": "^1.0.1",
+    "moment": "^2.29.3",
+    "mongodb": "^4.8.1",
+    "mongoose": "^6.5.0",
+    "node": "^16.16.0",
+    "node-fetch": "^3.2.9",
+    "rss-parser": "^3.12.0",
+    "superagent": "^8.0.0",
+    "util": "^0.12.4",
+    "wikipedia": "^1.1.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munz1211/DISCORD-JS-V13-TEMPLATE.git"
+  },
+  "keywords": [
+    "discord js template v13",
+    "discord template v13"
+  ],
+  "author": "Munz1211",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Munz1211/DISCORD-JS-V13-TEMPLATE/issues"
+  },
+  "homepage": "https://github.com/Munz1211/DISCORD-JS-V13-TEMPLATE#readme"
+}
